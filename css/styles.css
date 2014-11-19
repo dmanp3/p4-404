@@ -1,0 +1,48 @@
+
+body {
+	background: #000;
+}
+
+img {
+	position:relative;
+	left:400px;
+	bottom:4000px;
+}
+
+.ui.secondary.menu {
+	width:1100px;
+	position:relative;
+	left:400px;
+	bottom:4030px;
+}
+.ui.segment {
+	position:relative;
+	bottom:3970px;
+	color:#ECC673;
+	padding:.1em;
+	width:1100px;
+	left:400px;
+}
+/**a {
+	background-color:black;
+**/
+.ui.menu .item {
+	font-size:1.2rem;
+}
+.ui.menu .item, .ui.menu .item>a:not(.button) {
+	color:#ECC673;
+}
+
+.ui.input {
+	color:#ECC673;
+}
+
+
+
+.middle	{
+	background:#686159;
+	width:1100px;
+	height:4000px;
+	position:relative;
+	left:400px;
+}
